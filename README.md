@@ -6,6 +6,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dandrade-meli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandrade-meli&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Dani-Andrade-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Dani-Andrade-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
+  <img align="center" alt="Dani-Andrade-Scala" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg">
+  <img align="center" alt="Dani-Andrade-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Dani-Andrade-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    <img align="center" alt="Dani-Andrade-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  
+</div>
+  
+##
+
+  
 
 <!--
 **dandrade-meli/dandrade-meli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
