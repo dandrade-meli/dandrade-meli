@@ -1,4 +1,4 @@
-## Ola, sou o Danilo Andrade!
+## Olá! Sou o Danilo Andrade!
 
 
 <div align="center">
