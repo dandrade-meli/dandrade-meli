@@ -19,6 +19,7 @@
   
 ##
 
+![Snake animation](https://github.com/dandrade-meli/dandrade-meli/blob/output/github-contribution-grid-snake.svg)
   
 
 <!--
