@@ -1,12 +1,6 @@
 ## Olá! Sou o Danilo Andrade!
 
 
-<div align="center">
-  <a href="https://github.com/dandrade-meli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dandrade-meli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandrade-meli&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Dani-Andrade-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Dani-Andrade-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
